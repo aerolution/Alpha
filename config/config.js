@@ -104,7 +104,7 @@ exports.poof = true;
 exports.expTimer = 30000;
 
 // add system operators.
-exports.special = ['thedarksunset','immortalsx'];
+exports.special = ['hallowdynesalt','iseehallowdynes'];
 
 /**
  * crash guard - write errors to log file instead of crashing
@@ -350,7 +350,7 @@ exports.autolockdown = true;
  * @type {{[userid: string]: string}}
  */
 exports.customavatars = {
-	// 'userid': 'customavatar.png'
+	'iseehallowdynes': 'Hallowdynes.png'
 };
 
 /**
